@@ -1,3 +1,3 @@
-# Compi Programming practice problems
+# competitive Programming practice problems
 
 Practice Problems
